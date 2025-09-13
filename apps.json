@@ -1,0 +1,88 @@
+[
+  {
+    "title": "Volume Booster – Sound Boost",
+    "subtitle": "Make Your Videos & Sounds 10X Louder",
+    "link": "https://apps.apple.com/app/id6741472421",
+    "logo": "./assets/volume.webp",
+    "label": "volume"
+  },
+  {
+    "title": "Tweedeo: Reels from Tweets",
+    "subtitle": "Create Short Videos for Instagram or TikTok",
+    "link": "https://apps.apple.com/app/id6447699938",
+    "logo": "./assets/tweedeo.png",
+    "bg": "#F5F8FA",
+    "border": "#ccc",
+    "label": "tweedeo"
+  },
+  {
+    "title": "Extract Audio from Video⁺",
+    "subtitle": "Extract high-quality audio from any video",
+    "link": "https://apps.apple.com/app/id6744582065",
+    "logo": "./assets/extract.webp",
+    "bg": "#17B890",
+    "border": "#ccc",
+    "label": "extract"
+  },
+  {
+    "title": "Clear Wave - Blower",
+    "subtitle": "Eject Water from Speakers, Restore Clear Sound",
+    "link": "https://apps.apple.com/app/id6742754087",
+    "logo": "./assets/blower.webp",
+    "bg": "#a2d2ff",
+    "border": "#ddd",
+    "label": "blower"
+  },
+  {
+    "title": "Image to PDF: Fast Scanner",
+    "subtitle": "Convert images to PDFs instantly",
+    "link": "https://apps.apple.com/app/id1662471769",
+    "logo": "./assets/pdf.webp",
+    "bg": "#a2d2ff",
+    "border": "#ddd",
+    "label": "pdf"
+  },
+  {
+    "title": "Video To Photo - Grab Frame",
+    "subtitle": "Capture the best moments from your videos",
+    "link": "https://apps.apple.com/app/id6743497797",
+    "logo": "./assets/grabber.webp",
+    "bg": "#a2d2ff",
+    "border": "#ddd",
+    "label": "grabber"
+  },
+  {
+    "title": "QR Codes Widget & Storage",
+    "subtitle": "Store your QR codes and use them on Widget",
+    "link": "https://apps.apple.com/app/id1594061269",
+    "logo": "./assets/qr_code.webp",
+    "bg": "#a2d2ff",
+    "border": "#ddd",
+    "label": "qr_code"
+  },
+  {
+    "title": "Create Your Own Wallpaper",
+    "subtitle": "DIY Animated Wallpapers Maker",
+    "link": "https://apps.apple.com/app/id6504533095",
+    "logo": "./assets/wallpaper.webp",
+    "bg": "#a2d2ff",
+    "border": "#ddd",
+    "label": "wallpaper"
+  },
+  {
+    "title": "Resume Builder & CV Maker",
+    "subtitle": "Create a perfect resume in minutes",
+    "link": "https://apps.apple.com/app/id1630645768",
+    "logo": "./assets/resume.webp",
+    "border": "#ddd",
+    "label": "resume"
+  },
+  {
+    "title": "Garage Ringtones - RingPop",
+    "subtitle": "Create custom ringtones in seconds!",
+    "link": "https://apps.apple.com/app/id6742054029",
+    "logo": "./assets/ringpop.webp",
+    "border": "#ddd",
+    "label": "ringpop"
+  }
+]
