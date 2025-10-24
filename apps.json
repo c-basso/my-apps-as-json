@@ -84,5 +84,13 @@
     "logo": "./assets/ringpop.webp",
     "border": "#ddd",
     "label": "ringpop"
+  },
+  {
+    "title": "White Noise Machine - DRMN",
+    "subtitle": "Sleeping Sounds, Relax, Focus",
+    "link": "https://apps.apple.com/app/id6746480683",
+    "logo": "./assets/drmng.webp",
+    "border": "#ddd",
+    "label": "drmn"
   }
 ]
