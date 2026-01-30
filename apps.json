@@ -25,15 +25,6 @@
     "label": "blower"
   },
   {
-    "title": "Image to PDF: Fast Scanner",
-    "subtitle": "Convert images to PDFs instantly",
-    "link": "https://apps.apple.com/app/id1662471769",
-    "logo": "./assets/pdf.webp",
-    "bg": "#a2d2ff",
-    "border": "#ddd",
-    "label": "pdf"
-  },
-  {
     "title": "Video To Photo - Grab Frame",
     "subtitle": "Capture the best moments from your videos",
     "link": "https://apps.apple.com/app/id6743497797",
