@@ -7,15 +7,6 @@
     "label": "volume"
   },
   {
-    "title": "Tweedeo: Reels from Tweets",
-    "subtitle": "Create Short Videos for Instagram or TikTok",
-    "link": "https://apps.apple.com/app/id6447699938",
-    "logo": "./assets/tweedeo.png",
-    "bg": "#F5F8FA",
-    "border": "#ccc",
-    "label": "tweedeo"
-  },
-  {
     "title": "Extract Audio from Video⁺",
     "subtitle": "Extract high-quality audio from any video",
     "link": "https://apps.apple.com/app/id6744582065",
@@ -25,7 +16,7 @@
     "label": "extract"
   },
   {
-    "title": "Clear Wave - Blower",
+    "title": "Speaker Fix",
     "subtitle": "Eject Water from Speakers, Restore Clear Sound",
     "link": "https://apps.apple.com/app/id6742754087",
     "logo": "./assets/blower.webp",
@@ -52,16 +43,7 @@
     "label": "grabber"
   },
   {
-    "title": "QR Codes Widget & Storage",
-    "subtitle": "Store your QR codes and use them on Widget",
-    "link": "https://apps.apple.com/app/id1594061269",
-    "logo": "./assets/qr_code.webp",
-    "bg": "#a2d2ff",
-    "border": "#ddd",
-    "label": "qr_code"
-  },
-  {
-    "title": "Create Your Own Wallpaper",
+    "title": "Wallpaper Maker",
     "subtitle": "DIY Animated Wallpapers Maker",
     "link": "https://apps.apple.com/app/id6504533095",
     "logo": "./assets/wallpaper.webp",
@@ -70,7 +52,7 @@
     "label": "wallpaper"
   },
   {
-    "title": "Resume Builder & CV Maker",
+    "title": "CV Builder",
     "subtitle": "Create a perfect resume in minutes",
     "link": "https://apps.apple.com/app/id1630645768",
     "logo": "./assets/resume.webp",
