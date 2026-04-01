@@ -1,14 +1,14 @@
 [
   {
-    "title": "Volume Booster – Sound Boost",
-    "subtitle": "Make Your Videos & Sounds 10X Louder",
+    "title": "Increase Volume Sound",
+    "subtitle": "Boost video and audio volume up to 10x",
     "link": "https://apps.apple.com/app/id6741472421",
     "logo": "./assets/volume.webp",
     "label": "volume"
   },
   {
-    "title": "Extract Audio from Video⁺",
-    "subtitle": "Extract high-quality audio from any video",
+    "title": "Extract Audio from Video",
+    "subtitle": "Convert video to MP3 or M4A in seconds",
     "link": "https://apps.apple.com/app/id6744582065",
     "logo": "./assets/extract.webp",
     "bg": "#17B890",
@@ -16,8 +16,8 @@
     "label": "extract"
   },
   {
-    "title": "Speaker Fix",
-    "subtitle": "Eject Water from Speakers, Restore Clear Sound",
+    "title": "Speaker Fix: Liquid Remover",
+    "subtitle": "Eject water and restore clear speaker sound",
     "link": "https://apps.apple.com/app/id6742754087",
     "logo": "./assets/blower.webp",
     "bg": "#a2d2ff",
@@ -26,7 +26,7 @@
   },
   {
     "title": "Video To Photo - Grab Frame",
-    "subtitle": "Capture the best moments from your videos",
+    "subtitle": "Turn any video moment into a sharp photo",
     "link": "https://apps.apple.com/app/id6743497797",
     "logo": "./assets/grabber.webp",
     "bg": "#a2d2ff",
@@ -34,8 +34,8 @@
     "label": "grabber"
   },
   {
-    "title": "Wallpaper Maker",
-    "subtitle": "DIY Animated Wallpapers Maker",
+    "title": "Wallpaper Maker - WallSee",
+    "subtitle": "Create custom live wallpapers in minutes",
     "link": "https://apps.apple.com/app/id6504533095",
     "logo": "./assets/wallpaper.webp",
     "bg": "#a2d2ff",
@@ -43,27 +43,43 @@
     "label": "wallpaper"
   },
   {
-    "title": "CV Builder",
-    "subtitle": "Create a perfect resume in minutes",
+    "title": "CV Maker - Job Resume Creator",
+    "subtitle": "Build a professional CV and export PDF fast",
     "link": "https://apps.apple.com/app/id1630645768",
     "logo": "./assets/resume.webp",
     "border": "#ddd",
     "label": "resume"
   },
   {
-    "title": "Ringtone Maker - rington101.com",
-    "subtitle": "Create custom ringtones in seconds!",
+    "title": "Ringtone Maker RingTon101",
+    "subtitle": "Make custom iPhone ringtones from your songs",
     "link": "https://apps.apple.com/app/id6742054029",
     "logo": "./assets/ringpop.webp",
     "border": "#ddd",
     "label": "ringpop"
   },
   {
-    "title": "White Noise Machine - DRMN",
-    "subtitle": "Sleeping Sounds, Relax, Focus",
+    "title": "White Noise for Sleep - DRMN",
+    "subtitle": "Sleep faster with white noise and rain sounds",
     "link": "https://apps.apple.com/app/id6746480683",
     "logo": "./assets/drmn.webp",
     "border": "#ddd",
     "label": "drmn"
+  },
+  {
+    "title": "Bluetooth Finder",
+    "subtitle": "Locate lost AirPods and nearby Bluetooth devices",
+    "link": "https://apps.apple.com/app/id6756609274",
+    "logo": "./assets/bluetooth.webp",
+    "border": "#ddd",
+    "label": "bluetooth-finder"
+  },
+  {
+    "title": "Network Scanner",
+    "subtitle": "Scan WiFi, IP and Bluetooth for unknown devices",
+    "link": "https://apps.apple.com/app/id6757076982",
+    "logo": "./assets/network.webp",
+    "border": "#ddd",
+    "label": "network-scanner"
   }
 ]
