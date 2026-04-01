@@ -81,5 +81,13 @@
     "logo": "./assets/network.webp",
     "border": "#ddd",
     "label": "network-scanner"
+  },
+  {
+    "title": "Blur Background - MakeBlur",
+    "subtitle": "Blur photo backgrounds and create bokeh in seconds",
+    "link": "https://apps.apple.com/app/id6749166426",
+    "logo": "./assets/makeblur.webp",
+    "border": "#ddd",
+    "label": "blur"
   }
 ]
