@@ -1,28 +1,11 @@
 [
   {
-    "title": "Increase Volume Sound",
-    "subtitle": "Boost video and audio volume up to 10x",
-    "link": "https://apps.apple.com/app/id6741472421",
-    "logo": "./assets/volume.webp",
-    "label": "volume"
-  },
-  {
-    "title": "Extract Audio from Video",
-    "subtitle": "Convert video to MP3 or M4A in seconds",
-    "link": "https://apps.apple.com/app/id6744582065",
-    "logo": "./assets/extract.webp",
-    "bg": "#17B890",
-    "border": "#ccc",
-    "label": "extract"
-  },
-  {
-    "title": "Speaker Fix: Liquid Remover",
-    "subtitle": "Eject water and restore clear speaker sound",
-    "link": "https://apps.apple.com/app/id6742754087",
-    "logo": "./assets/blower.webp",
-    "bg": "#a2d2ff",
+    "title": "Sound Machine Deep Sleep DRMN",
+    "subtitle": "Sleep faster with white noise and rain sounds",
+    "link": "https://apps.apple.com/app/id6746480683",
+    "logo": "./assets/drmn.webp",
     "border": "#ddd",
-    "label": "blower"
+    "label": "drmn"
   },
   {
     "title": "Video To Photo - Grab Frame",
@@ -34,15 +17,6 @@
     "label": "grabber"
   },
   {
-    "title": "Wallpaper Maker - WallSee",
-    "subtitle": "Create custom live wallpapers in minutes",
-    "link": "https://apps.apple.com/app/id6504533095",
-    "logo": "./assets/wallpaper.webp",
-    "bg": "#a2d2ff",
-    "border": "#ddd",
-    "label": "wallpaper"
-  },
-  {
     "title": "CV Maker - Job Resume Creator",
     "subtitle": "Build a professional CV and export PDF fast",
     "link": "https://apps.apple.com/app/id1630645768",
@@ -51,28 +25,69 @@
     "label": "resume"
   },
   {
-    "title": "Ringtone Maker RingTon101",
-    "subtitle": "Make custom iPhone ringtones from your songs",
-    "link": "https://apps.apple.com/app/id6742054029",
-    "logo": "./assets/ringpop.webp",
+    "title": "Spinner Wheel Names",
+    "subtitle": "Spin the wheel to pick names and options fairly",
+    "link": "https://apps.apple.com/app/id6747451527",
+    "logo": "./assets/spinner.webp",
     "border": "#ddd",
-    "label": "ringpop"
+    "label": "spinner"
   },
   {
-    "title": "White Noise for Sleep - DRMN",
-    "subtitle": "Sleep faster with white noise and rain sounds",
-    "link": "https://apps.apple.com/app/id6746480683",
-    "logo": "./assets/drmn.webp",
+    "title": "Speaker Fix - Water Eject",
+    "subtitle": "Eject water and restore clear speaker sound",
+    "link": "https://apps.apple.com/app/id6742754087",
+    "logo": "./assets/blower.webp",
+    "bg": "#a2d2ff",
     "border": "#ddd",
-    "label": "drmn"
+    "label": "blower"
   },
   {
-    "title": "Bluetooth Finder",
+    "title": "Find Bluetooth Device",
     "subtitle": "Locate lost AirPods and nearby Bluetooth devices",
     "link": "https://apps.apple.com/app/id6756609274",
     "logo": "./assets/bluetooth.webp",
     "border": "#ddd",
     "label": "bluetooth-finder"
+  },
+  {
+    "title": "How to Blur Photo",
+    "subtitle": "Blur photo backgrounds and create bokeh in seconds",
+    "link": "https://apps.apple.com/app/id6749166426",
+    "logo": "./assets/makeblur.webp",
+    "border": "#ddd",
+    "label": "blur"
+  },
+  {
+    "title": "Extract Audio from Video",
+    "subtitle": "Convert video to MP3 or M4A in seconds",
+    "link": "https://apps.apple.com/app/id6744582065",
+    "logo": "./assets/extract.webp",
+    "bg": "#17B890",
+    "border": "#ccc",
+    "label": "extract"
+  },
+  {
+    "title": "Increase Volume Sound",
+    "subtitle": "Boost video and audio volume up to 10x",
+    "link": "https://apps.apple.com/app/id6741472421",
+    "logo": "./assets/volume.webp",
+    "label": "volume"
+  },
+  {
+    "title": "Text Repeater Generator",
+    "subtitle": "Repeat any text or emoji hundreds of times instantly",
+    "link": "https://apps.apple.com/app/id1597690181",
+    "logo": "./assets/repeater.webp",
+    "border": "#ddd",
+    "label": "textrepeater"
+  },
+  {
+    "title": "MP3 Ringtone Maker",
+    "subtitle": "Make custom iPhone ringtones from your songs",
+    "link": "https://apps.apple.com/app/id6742054029",
+    "logo": "./assets/ringpop.webp",
+    "border": "#ddd",
+    "label": "ringpop"
   },
   {
     "title": "Network Scanner",
@@ -83,11 +98,19 @@
     "label": "network-scanner"
   },
   {
-    "title": "Blur Background - MakeBlur",
-    "subtitle": "Blur photo backgrounds and create bokeh in seconds",
-    "link": "https://apps.apple.com/app/id6749166426",
-    "logo": "./assets/makeblur.webp",
+    "title": "Make Video to GIF",
+    "subtitle": "Turn video clips into looping GIFs",
+    "link": "https://apps.apple.com/app/id6762465120",
+    "logo": "./assets/gif.webp",
     "border": "#ddd",
-    "label": "blur"
+    "label": "video2gif"
+  },
+  {
+    "title": "Video File Compressor",
+    "subtitle": "Compress videos and reduce file size without hassle",
+    "link": "https://apps.apple.com/app/id6808348626",
+    "logo": "./assets/compressor.webp",
+    "border": "#ddd",
+    "label": "compress"
   }
 ]
