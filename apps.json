@@ -112,5 +112,13 @@
     "logo": "./assets/compressor.webp",
     "border": "#ddd",
     "label": "compress"
+  },
+  {
+    "title": "Vintage Photo Filter - Halatto",
+    "subtitle": "Make any photo look like film or an old camera",
+    "link": "https://apps.apple.com/app/id6758913511",
+    "logo": "./assets/halatto.webp",
+    "border": "#ddd",
+    "label": "halatto"
   }
 ]
